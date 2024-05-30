@@ -14,7 +14,7 @@ I'm a rookie developer focused on Python, HTML, CSS, and open-source projects. I
 
 ## Projects
 
-### Coming soon!](link-to-project)
+### [Coming soon!](link-to-project)
 Description: Brief description of the project.
 
 ### [Coming soon!](link-to-project)
