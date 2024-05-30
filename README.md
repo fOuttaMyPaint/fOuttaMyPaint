@@ -1,4 +1,4 @@
-# Hi! I'm [fOuttaMyPaint (on twitch)] :)
+# Hi! I'm [fOuttaMyPaint] :)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=fOuttaMyPaint&color=blue)
 
