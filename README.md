@@ -3,10 +3,9 @@
 # Welcome to My GitHub Profile!
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=fOuttaMyPaint&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fOuttaMyPaint&layout=compact&theme=radical)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=fOuttaMyPaint&bg_color=000000&color=00ff33&line=ffea00&point=009903&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 ![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=fOuttaMyPaint&theme=dark)
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=fOuttaMyPaint&bg_color=000000&color=00ff33&line=ffea00&point=009903&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ## Skills
 
@@ -26,6 +25,8 @@
     <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
     <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS">
 </div>
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fOuttaMyPaint&layout=compact&theme=radical)
 
 ## Projects
 - [Coming soon!](link-to-project): Brief description of the project.
