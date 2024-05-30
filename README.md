@@ -2,7 +2,8 @@
 -
 -
 -
--
+## GitHub Stats
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=fOuttaMyPaint&theme=react-dark)
 -
 -
 -
