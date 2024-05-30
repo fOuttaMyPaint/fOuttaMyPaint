@@ -22,5 +22,10 @@ Description: Brief description of the project.
 
 ## Connect with Me
 
-- [LinkedIn](coming soon!)
-- [Email](coming soon!)
+- [LinkedIn] - COMING SOON!
+- [Email] - COMING SOON!
+- [Twitch Channel](www.twitch.tv/fOuttaMyPaint)
+- Instagram - COMING SOON!
+- TikTok - COMING SOON!
+- YouTube - COMING SOON!
+- 
