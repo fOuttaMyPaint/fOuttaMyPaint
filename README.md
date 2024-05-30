@@ -1,4 +1,4 @@
-<div style="background: url('https://github.com/fOuttaMyPaint/Shopify-Assets/raw/main/Shopify-Theme-Templates_CUSTOM/HACKED_theme-template/assets/terminal%20screen%202.jpg'); padding: 20px; background-size: cover; color: #00FF00; font-family: 'Courier New', Courier, monospace;">
+<div style="background: url('https://github.com/fOuttaMyPaint/Shopify-Assets/raw/main/Shopify-Theme-Templates_CUSTOM/HACKED_theme-template/assets/terminal-20screen-202.jpg'); padding: 20px; background-size: cover; color: #00FF00; font-family: 'Courier New', Courier, monospace;">
 
 <h2 style="color: #00FF00;">WELCOME BACK!</h2>
 <p style="color: #00FF00;">Hello, I'm <em>fOuttaMyPaint</em> 👋</p>
