@@ -1,13 +1,10 @@
-<div align="center">
-
 # Welcome to My GitHub Profile!
 
-This profile is best viewed [here](https://github.com/fOuttaMyPaint/fOuttaMyPaint/blob/main/index.html).
+This profile is best viewed [here](https://fOuttaMyPaint.github.io/fOuttaMyPaint/HTML-files/terminal-interface-index.html).
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=fOuttaMyPaint&show_icons=true&theme=radical)
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=fOuttaMyPaint&bg_color=000000&color=00ff33&line=ffea00&point=009903&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 ![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=fOuttaMyPaint&theme=dark)
-
 
 ## Skills
 
@@ -43,5 +40,3 @@ This profile is best viewed [here](https://github.com/fOuttaMyPaint/fOuttaMyPain
 - YouTube - COMING SOON!
 
 ![Coding GIF](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
-
-</div>
