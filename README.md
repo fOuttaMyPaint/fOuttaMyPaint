@@ -1,9 +1,5 @@
-## Hello, I'm ***fOuttaMyPaint*** 👋![Profile Views](https://komarev.com/ghpvc/?username=fOuttaMyPaint&color=blue)
+        ## Hello, I'm ***fOuttaMyPaint*** 👋![Profile Views](https://komarev.com/ghpvc/?username=fOuttaMyPaint&color=blue)
 -
--
--
-## GitHub Stats
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=fOuttaMyPaint&theme=react-dark)
 -
 -
 -
@@ -17,19 +13,16 @@
 
 I'm a rookie developer focused on Python, HTML, CSS, and open-source projects. I love creating innovative solutions and contributing to the community.
 
-### Skills
+# ***Skills***
 
 - **Languages:** Python, JavaScript, HTML, CSS
 - **Frameworks:** Django, Flask, React
 - **Tools:** Git, Docker, Kubernetes
 
-## Projects
+# ***Projects***
+### *[Coming soon!](link-to-project)*
 
-### [Coming soon!](link-to-project)
-Description: Brief description of the project.
-
-### [Coming soon!](link-to-project)
-Description: Brief description of the project.
+### *[Coming soon!](link-to-project)*
 
 ## Connect with Me
 
