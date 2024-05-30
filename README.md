@@ -1,6 +1,26 @@
-- 👋 Created by fOuttaMyPaint (www.twitch.tv/fOuttaMyPaint)
+# Hi! I'm [fOuttaMyPaint (on twitch)] :)
 
-<!---
-fOuttaMyPaint/fOuttaMyPaint is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+![Profile Views](https://komarev.com/ghpvc/?username=fOuttaMyPaint&color=blue)
+
+## About Me
+
+I'm a rookie developer focused on Python, HTML, CSS, and open-source projects. I love creating innovative solutions and contributing to the community.
+
+## Skills
+
+- **Languages:** Python, JavaScript, HTML, CSS
+- **Frameworks:** Django, Flask, React
+- **Tools:** Git, Docker, Kubernetes
+
+## Projects
+
+### Coming soon!](link-to-project)
+Description: Brief description of the project.
+
+### [Coming soon!](link-to-project)
+Description: Brief description of the project.
+
+## Connect with Me
+
+- [LinkedIn](coming soon!)
+- [Email](coming soon!)
