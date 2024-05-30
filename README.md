@@ -6,8 +6,7 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fOuttaMyPaint&layout=compact&theme=radical)
 ![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=fOuttaMyPaint&theme=dark)
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=fOuttaMyPaint&theme=react-dark)
-
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=fOuttaMyPaint&bg_color=000000&color=00ff33&line=ffea00&point=009903&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ## Skills
 
