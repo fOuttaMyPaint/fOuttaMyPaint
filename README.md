@@ -1,35 +1,49 @@
-        ## Hello, I'm ***fOuttaMyPaint*** 👋![Profile Views](https://komarev.com/ghpvc/?username=fOuttaMyPaint&color=blue)
--
--
--
--
--
--
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+<div align="center">
+  ## Hello, I'm ***fOuttaMyPaint*** 👋
+  ![Profile Views](https://komarev.com/ghpvc/?username=fOuttaMyPaint&color=blue)
+</div>
 
-## About Me
+<div align="center">
+  ---
+</div>
 
-I'm a rookie developer focused on Python, HTML, CSS, and open-source projects. I love creating innovative solutions and contributing to the community.
+<div align="center">
+  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+  ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+</div>
 
-# ***Skills***
+<div align="left">
+  ## About Me
 
-- **Languages:** Python, JavaScript, HTML, CSS
-- **Frameworks:** Django, Flask, React
-- **Tools:** Git, Docker, Kubernetes
+  I'm a rookie developer focused on Python, HTML, CSS, and open-source projects. I love creating innovative solutions and contributing to the community.
+</div>
 
-# ***Projects***
-### *[Coming soon!](link-to-project)*
+<div align="left">
+  ### Skills
 
-### *[Coming soon!](link-to-project)*
+  - **Languages:** Python, JavaScript, HTML, CSS
+  - **Frameworks:** Django, Flask, React
+  - **Tools:** Git, Docker, Kubernetes
+</div>
 
-## Connect with Me
+<div align="left">
+  ## Projects
 
-- [LinkedIn] - COMING SOON!
-- [Email] - COMING SOON!
-- [Twitch Channel](www.twitch.tv/fOuttaMyPaint)
-- Instagram - COMING SOON!
-- TikTok - COMING SOON!
-- YouTube - COMING SOON!
-- 
+  ### [Coming soon!](link-to-project)
+  Description: Brief description of the project.
+
+  ### [Coming soon!](link-to-project)
+  Description: Brief description of the project.
+</div>
+
+<div align="center">
+  ## Connect with Me
+
+  - [LinkedIn] - COMING SOON!
+  - [Email] - COMING SOON!
+  - [Twitch Channel](www.twitch.tv/fOuttaMyPaint)
+  - Instagram - COMING SOON!
+  - TikTok - COMING SOON!
+  - YouTube - COMING SOON!
+</div>
