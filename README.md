@@ -41,9 +41,9 @@
     <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"> |
 </div>
 
-## Projects
-[Language Library](https://github.com/fOuttaMyPaint/Language-Library): A comprehensive repository containing various programming language resources and examples. Ideal for those looking to expand their programming knowledge across different technologies.
-[Coming soon!](link-to-project): Brief description of the project.
+## Top 3 Projects
+1. [Language Library](https://github.com/fOuttaMyPaint/Language-Library): A comprehensive repository containing various programming language resources and examples. Ideal for those looking to 2. expand their programming knowledge across different technologies.
+3. [Coming soon!](link-to-project): Brief description of the project.
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=fOuttaMyPaint&bg_color=000000&color=00ff33&line=ffea00&point=009903&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 [![Watch the Video](https://img.youtube.com/vi/ChOVlOcw5gA/maxresdefault.jpg)](https://youtu.be/ChOVlOcw5gA)
