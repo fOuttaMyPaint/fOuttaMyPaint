@@ -12,11 +12,11 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/yourusername)
 [![X](https://img.shields.io/badge/X-333333?style=for-the-badge&logo=x&logoColor=white)](https://x.com/yourusername)
 
+## Top Languages | GitHub Respositories
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fOuttaMyPaint&layout=compact&theme=radical)
+
 ## Rookie Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=fOuttaMyPaint&show_icons=true&theme=radical)
-
-## Recently
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=fOuttaMyPaint&bg_color=000000&color=00ff33&line=ffea00&point=009903&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ## Streak
 ![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=fOuttaMyPaint&theme=dark)
@@ -40,11 +40,10 @@
     <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"> |
 </div>
 
-## Top Languages | GitHub Respositories
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fOuttaMyPaint&layout=compact&theme=radical)
-
 ## Projects
 - [Coming soon!](link-to-project): Brief description of the project.
 - [Coming soon!](link-to-project): Brief description of the project.
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=fOuttaMyPaint&bg_color=000000&color=00ff33&line=ffea00&point=009903&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ![Coding GIF](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
