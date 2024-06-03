@@ -1,3 +1,5 @@
+<div align="center">
+
 # Welcome to My GitHub Profile!
 
 ## Connect with Me
