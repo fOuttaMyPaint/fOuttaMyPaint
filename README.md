@@ -1,6 +1,14 @@
 # Welcome to My GitHub Profile!
 
-This profile is best viewed [here](https://fOuttaMyPaint.github.io/fOuttaMyPaint/HTML-files/terminal-interface-index.html).
+## Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yourusername)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/yourchannel)
+[![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://twitch.tv/yourusername)
+[![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://tiktok.com/@yourusername)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/yourusername)
+[![X](https://img.shields.io/badge/X-333333?style=for-the-badge&logo=x&logoColor=white)](https://x.com/yourusername)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=fOuttaMyPaint&show_icons=true&theme=radical)
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=fOuttaMyPaint&bg_color=000000&color=00ff33&line=ffea00&point=009903&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
@@ -40,16 +48,3 @@ This profile is best viewed [here](https://fOuttaMyPaint.github.io/fOuttaMyPaint
 - YouTube - COMING SOON!
 
 ![Coding GIF](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
-
-
-![Profile Picture](https://your-image-link.jpg)
-
-## Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yourusername)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/yourchannel)
-[![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://twitch.tv/yourusername)
-[![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://tiktok.com/@yourusername)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/yourusername)
-[![X](https://img.shields.io/badge/X-333333?style=for-the-badge&logo=x&logoColor=white)](https://x.com/yourusername)
