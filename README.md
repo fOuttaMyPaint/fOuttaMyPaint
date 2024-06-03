@@ -2,11 +2,10 @@
 
 # <strong>Welcome to fOuttaMyPaint's GitHub Profile!
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fOuttaMyPaint&layout=compact&theme=radical)
 
-# <strong>Top Languages | <strong>GitHub Respositories
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fOuttaMyPaint&layout=compact&theme=radical)
 
+# <strong>Top Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fOuttaMyPaint&layout=compact&theme=radical) 
 
 # _<strong>Connect with Me_
 
