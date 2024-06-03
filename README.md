@@ -2,7 +2,7 @@
 
 # Welcome to fOuttaMyPaint's GitHub Profile!
 
-Watch the Video [![Watch the Video](https://img.youtube.com/vi/PjbG-E4g-Mc/maxresdefault.jpg)](https://youtube.com/shorts/PjbG-E4g-Mc)
+This profile is best viewed [here](https://fOuttaMyPaint.github.io/fOuttaMyPaint/HTML-files/terminal-interface-index.html).
 
 ## Connect with Me
 
