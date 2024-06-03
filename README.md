@@ -42,20 +42,21 @@ This profile is best viewed [here](https://fOuttaMyPaint.github.io/fOuttaMyPaint
 ![Coding GIF](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
 
 
-![Profile Picture](profile_picture_url.jpg)
+![Profile Picture](https://your-image-link.jpg)
 
 # Your Name
 
 Here is a short bio about yourself. Explain what you do, your interests, and any other personal information you'd like to share.
 
-### Skills
-- Python
-- JavaScript
-- HTML/CSS
-<!-- Add more skills as needed -->
+## Skills
 
-### Connect with Me
-- [LinkedIn](https://linkedin.com/in/yourprofile)
-- [GitHub](https://github.com/yourusername)
-- [Twitter](https://twitter.com/yourusername)
-<!-- Add more links as needed -->
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+## Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yourusername)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourusername)
