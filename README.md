@@ -1,6 +1,9 @@
 <div align="center">
 
-# <strong>Welcome to fOuttaMyPaint's GitHub Profile!
+# <strong>fOuttaMyPaint's GitHub Profile!
+
+
+
 
 
 
