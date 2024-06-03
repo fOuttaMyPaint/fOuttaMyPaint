@@ -40,3 +40,22 @@ This profile is best viewed [here](https://fOuttaMyPaint.github.io/fOuttaMyPaint
 - YouTube - COMING SOON!
 
 ![Coding GIF](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
+
+
+![Profile Picture](profile_picture_url.jpg)
+
+# Your Name
+
+Here is a short bio about yourself. Explain what you do, your interests, and any other personal information you'd like to share.
+
+### Skills
+- Python
+- JavaScript
+- HTML/CSS
+<!-- Add more skills as needed -->
+
+### Connect with Me
+- [LinkedIn](https://linkedin.com/in/yourprofile)
+- [GitHub](https://github.com/yourusername)
+- [Twitter](https://twitter.com/yourusername)
+<!-- Add more links as needed -->
