@@ -46,13 +46,13 @@
 # <strong>Top 3 Projects
 <ol>
   <li>
-<strong>1. [Language Library](https://github.com/fOuttaMyPaint/Language-Library): A comprehensive repository containing various programming language resources and examples. Ideal for those looking to expand their programming knowledge across different technologies.
+<strong> [Language Library](https://github.com/fOuttaMyPaint/Language-Library): A comprehensive repository containing various programming language resources and examples. Ideal for those looking to expand their programming knowledge across different technologies.
  </li>
   <li>
-<strong>2. [TMHS.github.io](https://github.com/fOuttaMyPaint/TMHS.github.io): The repository for TM Hospitality Strategies, showcasing our digital solutions and projects in the hospitality industry.
+<strong> [TMHS.github.io](https://github.com/fOuttaMyPaint/TMHS.github.io): The repository for TM Hospitality Strategies, showcasing our digital solutions and projects in the hospitality industry.
      </li>
   <li>
-<strong>3. [fOuttaMyPaint](https://github.com/fOuttaMyPaint/fOuttaMyPaint): My personal GitHub profile repository, featuring my projects, contributions, and professional development activities.
+<strong> [fOuttaMyPaint](https://github.com/fOuttaMyPaint/fOuttaMyPaint): My personal GitHub profile repository, featuring my projects, contributions, and professional development activities.
   </li>
 </ol>
 
