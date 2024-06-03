@@ -1,8 +1,8 @@
 <div align="center">
 
-# Welcome to fOuttaMyPaint's GitHub Profile!
+# <strong>Welcome to fOuttaMyPaint's GitHub Profile!
 
-## _Connect with Me_
+# _<strong>Connect with Me_
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yourusername)
@@ -13,16 +13,16 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/yourusername)
 [![X](https://img.shields.io/badge/X-333333?style=for-the-badge&logo=x&logoColor=white)](https://x.com/yourusername)
 
-## Top Languages | GitHub Respositories
+# <strong>Top Languages | <strong>GitHub Respositories
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fOuttaMyPaint&layout=compact&theme=radical)
 
-## Rookie Stats
+# <strong>Rookie Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=fOuttaMyPaint&show_icons=true&theme=radical)
 
-## Streak
+# <strong>Streak
 ![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=fOuttaMyPaint&theme=dark)
 
-## Skills
+# <strong>Skills
 
 <div style="display: flex; justify-content: center; flex-wrap: wrap;">
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"> |
@@ -43,7 +43,7 @@
 
 <div align="center">
     
-## Top 3 Projects
+# <strong>Top 3 Projects
 <ol>
   <li>
 <strong>1. [Language Library](https://github.com/fOuttaMyPaint/Language-Library): A comprehensive repository containing various programming language resources and examples. Ideal for those looking to expand their programming knowledge across different technologies.
@@ -58,11 +58,5 @@
 
 </div>
 
-## Top 3 Projects
-- [Language Library](https://github.com/fOuttaMyPaint/Language-Library): A comprehensive repository containing various programming language resources and examples. Ideal for those looking to expand their programming knowledge across different technologies.
-- [Coming soon!](link-to-project): Brief description of the project.
-- [Coming soon!](link-to-project): Brief description of the project.
-
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=fOuttaMyPaint&bg_color=000000&color=00ff33&line=ffea00&point=009903&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-[![Watch the Video](https://img.youtube.com/vi/ChOVlOcw5gA/maxresdefault.jpg)](https://youtu.be/ChOVlOcw5gA)
+<strong>[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=fOuttaMyPaint&bg_color=000000&color=00ff33&line=ffea00&point=009903&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<strong>[![Watch the Video](https://img.youtube.com/vi/ChOVlOcw5gA/maxresdefault.jpg)](https://youtu.be/ChOVlOcw5gA)
