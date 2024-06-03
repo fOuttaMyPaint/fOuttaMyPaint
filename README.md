@@ -2,7 +2,7 @@
 
 # Welcome to fOuttaMyPaint's GitHub Profile!
 
-[![Watch the Video](https://img.youtube.com/vi/ChOVlOcw5gA/maxresdefault.jpg)](https://youtu.be/ChOVlOcw5gA)
+[![Watch the Video](https://img.youtube.com/vi/PjbG-E4g-Mc/maxresdefault.jpg)](https://youtube.com/shorts/PjbG-E4g-Mc)
 
 ## Connect with Me
 
@@ -47,5 +47,4 @@
 - [Coming soon!](link-to-project): Brief description of the project.
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=fOuttaMyPaint&bg_color=000000&color=00ff33&line=ffea00&point=009903&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-![Coding GIF](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
+[![Watch the Video](https://img.youtube.com/vi/ChOVlOcw5gA/maxresdefault.jpg)](https://youtu.be/ChOVlOcw5gA)
