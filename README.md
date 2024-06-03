@@ -1,12 +1,34 @@
-# Welcome to My GitHub Profile!
+<h1 align="center">Welcome to My GitHub Profile</h1>
 
-This profile is best viewed [here](https://fOuttaMyPaint.github.io/fOuttaMyPaint/HTML-files/terminal-interface-index.html).
+<pre>
++----------------------------------------+
+|                                        |
+|    Welcome to fOuttaMyPaint's GitHub   |
+|                                        |
++----------------------------------------+
+</pre>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=fOuttaMyPaint&show_icons=true&theme=radical)
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=fOuttaMyPaint&bg_color=000000&color=00ff33&line=ffea00&point=009903&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=fOuttaMyPaint&theme=dark)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=fOuttaMyPaint&show_icons=true&theme=radical" alt="GitHub Stats">
+</p>
 
-## Skills
+<p align="center">
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=fOuttaMyPaint&bg_color=000000&color=00ff33&line=ffea00&point=009903&area=true&hide_border=true" alt="GitHub Activity Graph">
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fOuttaMyPaint&theme=dark" alt="GitHub Streak Stats">
+</p>
+
+<pre>
++----------------------------------------+
+|                                        |
+|               Skills                   |
+|                                        |
++----------------------------------------+
+</pre>
 
 <div style="display: flex; justify-content: center; flex-wrap: wrap;">
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
@@ -25,18 +47,40 @@ This profile is best viewed [here](https://fOuttaMyPaint.github.io/fOuttaMyPaint
     <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS">
 </div>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fOuttaMyPaint&layout=compact&theme=radical)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fOuttaMyPaint&layout=compact&theme=radical" alt="Top Languages">
+</p>
 
-## Projects
-- [Coming soon!](link-to-project): Brief description of the project.
-- [Coming soon!](link-to-project): Brief description of the project.
+<pre>
++----------------------------------------+
+|                                        |
+|               Projects                 |
+|                                        |
++----------------------------------------+
+</pre>
 
-## Connect with Me
-- LinkedIn - COMING SOON!
-- Email - COMING SOON!
-- [Twitch Channel](https://www.twitch.tv/fOuttaMyPaint)
-- Instagram - COMING SOON!
-- TikTok - COMING SOON!
-- YouTube - COMING SOON!
+<ul>
+  <li>[Coming soon!](link-to-project): Brief description of the project.</li>
+  <li>[Coming soon!](link-to-project): Brief description of the project.</li>
+</ul>
 
-![Coding GIF](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
+<pre>
++----------------------------------------+
+|                                        |
+|           Connect with Me              |
+|                                        |
++----------------------------------------+
+</pre>
+
+<ul>
+  <li>LinkedIn - COMING SOON!</li>
+  <li>Email - COMING SOON!</li>
+  <li><a href="https://www.twitch.tv/fOuttaMyPaint">Twitch Channel</a></li>
+  <li>Instagram - COMING SOON!</li>
+  <li>TikTok - COMING SOON!</li>
+  <li>YouTube - COMING SOON!</li>
+</ul>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding GIF">
+</p>
