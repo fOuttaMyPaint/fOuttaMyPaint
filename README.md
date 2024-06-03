@@ -2,7 +2,7 @@
 
 # Welcome to fOuttaMyPaint's GitHub Profile!
 
-[![Watch the Video](https://img.[youtube.com/vi/PjbG-E4g-Mc/maxresdefault.jpg)
+!Watch the Video https://img.youtube.com/vi/PjbG-E4g-Mc/maxresdefault.jpg
 
 ## Connect with Me
 
