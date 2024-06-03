@@ -9,6 +9,20 @@
 </pre>
 
 <p align="center">
+  <a href="https://fOuttaMyPaint.github.io/fOuttaMyPaint/HTML-files/terminal-interface-index.html">
+    This profile is best viewed here
+  </a>
+</p>
+
+<pre>
++----------------------------------------+
+|                                        |
+|              GitHub Stats              |
+|                                        |
++----------------------------------------+
+</pre>
+
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=fOuttaMyPaint&show_icons=true&theme=radical" alt="GitHub Stats">
 </p>
 
@@ -30,7 +44,7 @@
 +----------------------------------------+
 </pre>
 
-<div style="display: flex; justify-content: center; flex-wrap: wrap;">
+<div align="center" style="display: flex; justify-content: center; flex-wrap: wrap;">
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
     <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
@@ -60,8 +74,8 @@
 </pre>
 
 <ul>
-  <li>[Coming soon!](link-to-project): Brief description of the project.</li>
-  <li>[Coming soon!](link-to-project): Brief description of the project.</li>
+  <li><a href="link-to-project">Coming soon!</a>: Brief description of the project.</li>
+  <li><a href="link-to-project">Coming soon!</a>: Brief description of the project.</li>
 </ul>
 
 <pre>
