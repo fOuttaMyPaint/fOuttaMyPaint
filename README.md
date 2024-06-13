@@ -2,10 +2,13 @@
 
 # <strong>fOuttaMyPaint's GitHub Profile!
 
-
-
-
-
+## Table of Contents
+- [Top Languages](#top-languages)
+- [Connect with Me](#connect-with-me)
+- [Rookie Stats](#rookie-stats)
+- [Streak](#streak)
+- [Skills](#skills)
+- [Top 3 Projects](#top-3-projects)
 
 # <strong>Top Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fOuttaMyPaint&layout=compact&theme=radical) 
@@ -67,3 +70,5 @@
 
 <strong>[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=fOuttaMyPaint&bg_color=000000&color=00ff33&line=ffea00&point=009903&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 <strong>[![Watch the Video](https://img.youtube.com/vi/ChOVlOcw5gA/maxresdefault.jpg)](https://youtu.be/ChOVlOcw5gA)
+
+</div>
