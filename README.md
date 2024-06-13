@@ -94,6 +94,6 @@
 
 <details>
   <summary>FAQ</summary>
-  <p><strongHere's the complete `README.md` with the modifications, including expandable sections for additional information, FAQ, and code examples, but without the table of contents:
+  <p>
 
 ```markdown
