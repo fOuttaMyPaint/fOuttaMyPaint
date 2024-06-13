@@ -6,22 +6,22 @@
 <h2 style="color: #fff;">Table of Contents</h2>
 <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
     <a href="#top-languages">
-        <button style="background-color: #ff4c4c; border: none; color: white; padding: 10px 20px; font-size: 16px; border-radius: 5px; cursor: pointer;">Top Languages</button>
+        <button style="background-color: #ff4c4c; border: none; color: white; padding: 10px 20px; font-size: 16px; border-radius: 55px; cursor: pointer;">Top Languages</button>
     </a>
     <a href="#connect-with-me">
-        <button style="background-color: #ff4c4c; border: none; color: white; padding: 10px 20px; font-size: 16px; border-radius: 5px; cursor: pointer;">Connect with Me</button>
+        <button style="background-color: #ff4c4c; border: none; color: white; padding: 10px 20px; font-size: 16px; border-radius: 55px; cursor: pointer;">Connect with Me</button>
     </a>
     <a href="#rookie-stats">
-        <button style="background-color: #ff4c4c; border: none; color: white; padding: 10px 20px; font-size: 16px; border-radius: 5px; cursor: pointer;">Rookie Stats</button>
+        <button style="background-color: #ff4c4c; border: none; color: white; padding: 10px 20px; font-size: 16px; border-radius: 55px; cursor: pointer;">Rookie Stats</button>
     </a>
     <a href="#streak">
-        <button style="background-color: #ff4c4c; border: none; color: white; padding: 10px 20px; font-size: 16px; border-radius: 5px; cursor: pointer;">Streak</button>
+        <button style="background-color: #ff4c4c; border: none; color: white; padding: 10px 20px; font-size: 16px; border-radius: 55px; cursor: pointer;">Streak</button>
     </a>
     <a href="#skills">
-        <button style="background-color: #ff4c4c; border: none; color: white; padding: 10px 20px; font-size: 16px; border-radius: 5px; cursor: pointer;">Skills</button>
+        <button style="background-color: #ff4c4c; border: none; color: white; padding: 10px 20px; font-size: 16px; border-radius: 55px; cursor: pointer;">Skills</button>
     </a>
     <a href="#top-3-projects">
-        <button style="background-color: #ff4c4c; border: none; color: white; padding: 10px 20px; font-size: 16px; border-radius: 5px; cursor: pointer;">Top 3 Projects</button>
+        <button style="background-color: #ff4c4c; border: none; color: white; padding: 10px 20px; font-size: 16px; border-radius: 55px; cursor: pointer;">Top 3 Projects</button>
     </a>
 </div>
 </div>
