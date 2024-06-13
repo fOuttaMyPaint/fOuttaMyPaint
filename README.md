@@ -6,22 +6,22 @@
 <h2 style="color: #fff;">Table of Contents</h2>
 <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
     <a href="#top-languages">
-        <button style="background-color: #ff4c4c; border: none; color: white; padding: 10px 20px; font-size: 16px; border-radius: 55px; cursor: pointer;">Top Languages</button>
+        <button style="background-color: #ff4c4c; border: none; color: white; padding: 10px 20px; font-size: 16px; border-radius: 5px; cursor: pointer;">Top Languages</button>
     </a>
     <a href="#connect-with-me">
-        <button style="background-color: #ff4c4c; border: none; color: white; padding: 10px 20px; font-size: 16px; border-radius: 55px; cursor: pointer;">Connect with Me</button>
+        <button style="background-color: #ff4c4c; border: none; color: white; padding: 10px 20px; font-size: 16px; border-radius: 5px; cursor: pointer;">Connect with Me</button>
     </a>
     <a href="#rookie-stats">
-        <button style="background-color: #ff4c4c; border: none; color: white; padding: 10px 20px; font-size: 16px; border-radius: 55px; cursor: pointer;">Rookie Stats</button>
+        <button style="background-color: #ff4c4c; border: none; color: white; padding: 10px 20px; font-size: 16px; border-radius: 5px; cursor: pointer;">Rookie Stats</button>
     </a>
     <a href="#streak">
-        <button style="background-color: #ff4c4c; border: none; color: white; padding: 10px 20px; font-size: 16px; border-radius: 55px; cursor: pointer;">Streak</button>
+        <button style="background-color: #ff4c4c; border: none; color: white; padding: 10px 20px; font-size: 16px; border-radius: 5px; cursor: pointer;">Streak</button>
     </a>
     <a href="#skills">
-        <button style="background-color: #ff4c4c; border: none; color: white; padding: 10px 20px; font-size: 16px; border-radius: 55px; cursor: pointer;">Skills</button>
+        <button style="background-color: #ff4c4c; border: none; color: white; padding: 10px 20px; font-size: 16px; border-radius: 5px; cursor: pointer;">Skills</button>
     </a>
     <a href="#top-3-projects">
-        <button style="background-color: #ff4c4c; border: none; color: white; padding: 10px 20px; font-size: 16px; border-radius: 55px; cursor: pointer;">Top 3 Projects</button>
+        <button style="background-color: #ff4c4c; border: none; color: white; padding: 10px 20px; font-size: 16px; border-radius: 5px; cursor: pointer;">Top 3 Projects</button>
     </a>
 </div>
 </div>
@@ -72,19 +72,4 @@
 # <strong>Top 3 Projects
 <ol>
   <li>
-<strong> [Language Library](https://github.com/fOuttaMyPaint/Language-Library): A comprehensive repository containing various programming language resources and examples. Ideal for those looking to expand their programming knowledge across different technologies.
- </li>
-  <li>
-<strong> [TMHS.github.io](https://github.com/fOuttaMyPaint/TMHS.github.io): The repository for TM Hospitality Strategies, showcasing our digital solutions and projects in the hospitality industry.
-     </li>
-  <li>
-<strong> [fOuttaMyPaint](https://github.com/fOuttaMyPaint/fOuttaMyPaint): My personal GitHub profile repository, featuring my projects, contributions, and professional development activities.
-  </li>
-</ol>
-
-</div>
-
-<strong>[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=fOuttaMyPaint&bg_color=000000&color=00ff33&line=ffea00&point=009903&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-<strong>[![Watch the Video](https://img.youtube.com/vi/ChOVlOcw5gA/maxresdefault.jpg)](https://youtu.be/ChOVlOcw5gA)
-
-</div>
+<strong> [Language Library](https://github.com/fHere’s an example of how you can incorporate expandable sections into your README file for additional information, FAQ, and code examples. 
