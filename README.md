@@ -2,13 +2,29 @@
 
 # <strong>fOuttaMyPaint's GitHub Profile!
 
-## Table of Contents
-- [Top Languages](#top-languages)
-- [Connect with Me](#connect-with-me)
-- [Rookie Stats](#rookie-stats)
-- [Streak](#streak)
-- [Skills](#skills)
-- [Top 3 Projects](#top-3-projects)
+<div style="background-color: #2e2e2e; padding: 20px; border-radius: 10px; width: 80%; margin: auto;">
+<h2 style="color: #fff;">Table of Contents</h2>
+<div style="display: flex; flex-wrap: wrap; justify-content: center;">
+    <a href="#top-languages" style="margin: 10px;">
+        <button style="background-color: #ff4c4c; border: none; color: white; padding: 10px 20px; text-align: center; text-decoration: none; display: inline-block; font-size: 16px; margin: 4px 2px; cursor: pointer; border-radius: 5px;">Top Languages</button>
+    </a>
+    <a href="#connect-with-me" style="margin: 10px;">
+        <button style="background-color: #ff4c4c; border: none; color: white; padding: 10px 20px; text-align: center; text-decoration: none; display: inline-block; font-size: 16px; margin: 4px 2px; cursor: pointer; border-radius: 5px;">Connect with Me</button>
+    </a>
+    <a href="#rookie-stats" style="margin: 10px;">
+        <button style="background-color: #ff4c4c; border: none; color: white; padding: 10px 20px; text-align: center; text-decoration: none; display: inline-block; font-size: 16px; margin: 4px 2px; cursor: pointer; border-radius: 5px;">Rookie Stats</button>
+    </a>
+    <a href="#streak" style="margin: 10px;">
+        <button style="background-color: #ff4c4c; border: none; color: white; padding: 10px 20px; text-align: center; text-decoration: none; display: inline-block; font-size: 16px; margin: 4px 2px; cursor: pointer; border-radius: 5px;">Streak</button>
+    </a>
+    <a href="#skills" style="margin: 10px;">
+        <button style="background-color: #ff4c4c; border: none; color: white; padding: 10px 20px; text-align: center; text-decoration: none; display: inline-block; font-size: 16px; margin: 4px 2px; cursor: pointer; border-radius: 5px;">Skills</button>
+    </a>
+    <a href="#top-3-projects" style="margin: 10px;">
+        <button style="background-color: #ff4c4c; border: none; color: white; padding: 10px 20px; text-align: center; text-decoration: none; display: inline-block; font-size: 16px; margin: 4px 2px; cursor: pointer; border-radius: 5px;">Top 3 Projects</button>
+    </a>
+</div>
+</div>
 
 # <strong>Top Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fOuttaMyPaint&layout=compact&theme=radical) 
