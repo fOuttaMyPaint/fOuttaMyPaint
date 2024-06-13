@@ -89,11 +89,11 @@
 
 <details>
   <summary>More Information</summary>
-  <p>Here is some additional information about the project that users can choose to read by expanding this section.</p>
+  <p>Coming Soon!</p>
 </details>
 
 <details>
   <summary>FAQ</summary>
-  <p>
-
+  <p>Coming Soon!</p>
+  
 ```markdown
