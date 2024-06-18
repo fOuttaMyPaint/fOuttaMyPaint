@@ -1,61 +1,54 @@
 # fOuttaMyPaint's GitHub Profile!
 
-## Table of Contents
+# Top Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fOuttaMyPaint&layout=compact&theme=radical) 
 
-- [fOuttaMyPaint's GitHub Profile!](#fouttamypaints-github-profile)
-  - [Table of Contents](#table-of-contents)
-  - [Top Languages](#top-languages)
-  - [Connect with Me](#connect-with-me)
-  - [Rookie Stats](#rookie-stats)
-  - [Streak](#streak)
-  - [Skills](#skills)
-  - [Top 3 Projects](#top-3-projects)
-
-## Top Languages
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fOuttaMyPaint&layout=compact&theme=radical)
-
-## Connect with Me
+# Connect with Me
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/fOuttaMyPaint)
 [![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://tiktok.com/@fOuttaMyPaint)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCeA22MjbnroVywVLC6z8oug)
-
 [![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://twitch.tv/fOuttaMyPaint)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/fouttamypaint)
 [![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://tiktok.com/@TMHS.Digital)
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/thomasmathes1)
 [![X](https://img.shields.io/badge/X-333333?style=for-the-badge&logo=x&logoColor=white)](https://x.com/yourusername)
 
-## Rookie Stats
-
+# Rookie Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=fOuttaMyPaint&show_icons=true&theme=radical)
 
-## Streak
-
+# Streak
 ![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=fOuttaMyPaint&theme=dark)
 
-## Skills
+# Skills
 
-- Python
-- JavaScript
-- Docker
-- HTML5
-- CSS3
-- React
-- Node.js
-- Git
-- GitHub
-- VS Code
+<div style="display: flex; justify-content: center; flex-wrap: wrap;">
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
+    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">
+    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js">
+    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+    <img src="https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code">
+</div>
 
-## Top 3 Projects
+# Top 3 Projects
+<ol>
+  <li>
+    <strong><a href="https://github.com/fOuttaMyPaint/Language-Library">Language Library</a></strong>: A comprehensive repository containing various programming language resources and examples. Ideal for those looking to expand their programming knowledge across different technologies.
+  </li>
+  <li>
+    <strong><a href="https://github.com/fOuttaMyPaint/TMHS.github.io">TMHS.github.io</a></strong>: The repository for TM Hospitality Strategies, showcasing our digital solutions and projects in the hospitality industry.
+  </li>
+  <li>
+    <strong><a href="https://github.com/fOuttaMyPaint/fOuttaMyPaint">fOuttaMyPaint</a></strong>: My personal GitHub profile repository, featuring my projects, contributions, and professional development activities.
+  </li>
+</ol>
 
-1. [Language Library](https://github.com/fOuttaMyPaint/Language-Library): A comprehensive repository containing various programming language resources and examples. Ideal for those looking to expand their programming knowledge across different technologies.
-2. [TMHS.github.io](https://github.com/fOuttaMyPaint/TMHS.github.io): The repository for TM Hospitality Strategies, showcasing our digital solutions and projects in the hospitality industry.
-3. [fOuttaMyPaint](https://github.com/fOuttaMyPaint/fOuttaMyPaint): My personal GitHub profile repository, featuring my projects, contributions, and professional development activities.
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=fOuttaMyPaint&bg_color=000000&color=00ff33&line=ffea00&point=009903&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=fOuttaMyPaint&bg_color=000000&color=00ff33&line=ffea00&point=009903&area=true&hide_border=true)
 
 <details>
   <summary>More Information</summary>
@@ -65,5 +58,4 @@
 <details>
   <summary>FAQ</summary>
   <p>Coming Soon!</p>
-  
-```markdown
+</details>
