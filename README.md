@@ -2,50 +2,32 @@
 
 # <strong>TMHS Digital on GitHub
 
-<div style="background-color: #2e2e2e; padding: 20px; border-radius: 10px; width: 80%; margin: auto;">
-<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
-    <a href="#top-languages">
-        <button style="background-color: #ff4c4c; border: none; color: white; padding: 10px 20px; font-size: 16px; border-radius: 5px; cursor: pointer;">Top Languages</button>
-    </a>
-    <a href="#connect-with-me">
-        <button style="background-color: #ff4c4c; border: none; color: white; padding: 10px 20px; font-size: 16px; border-radius: 5px; cursor: pointer;">Connect with Me</button>
-    </a>
-    <a href="#rookie-stats">
-        <button style="background-color: #ff4c4c; border: none; color: white; padding: 10px 20px; font-size: 16px; border-radius: 5px; cursor: pointer;">Rookie Stats</button>
-    </a>
-    <a href="#streak">
-        <button style="background-color: #ff4c4c; border: none; color: white; padding: 10px 20px; font-size: 16px; border-radius: 5px; cursor: pointer;">Streak</button>
-    </a>
-    <a href="#skills">
-        <button style="background-color: #ff4c4c; border: none; color: white; padding: 10px 20px; font-size: 16px; border-radius: 5px; cursor: pointer;">Skills</button>
-    </a>
-    <a href="#top-3-projects">
-        <button style="background-color: #ff4c4c; border: none; color: white; padding: 10px 20px; font-size: 16px; border-radius: 5px; cursor: pointer;">Top 3 Projects</button>
-    </a>
-</div>
-</div>
+![Top Languages](https://img.shields.io/badge/Top%20Languages-ff4c4c?style=for-the-badge&logo=appveyor&logoColor=white&link=#top-languages)
+![Connect with Me](https://img.shields.io/badge/Connect%20with%20Me-ff4c4c?style=for-the-badge&logo=appveyor&logoColor=white&link=#connect-with-me)
+![Rookie Stats](https://img.shields.io/badge/Rookie%20Stats-ff4c4c?style=for-the-badge&logo=appveyor&logoColor=white&link=#rookie-stats)
+![Streak](https://img.shields.io/badge/Streak-ff4c4c?style=for-the-badge&logo=appveyor&logoColor=white&link=#streak)
+![Skills](https://img.shields.io/badge/Skills-ff4c4c?style=for-the-badge&logo=appveyor&logoColor=white&link=#skills)
+![Top 3 Projects](https://img.shields.io/badge/Top%203%20Projects-ff4c4c?style=for-the-badge&logo=appveyor&logoColor=white&link=#top-3-projects)
 
 # <strong>Top Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fOuttaMyPaint&layout=compact&theme=radical) 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TMHSDigital&layout=compact&theme=radical) 
 
 # <strong>Connect with Me
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/fOuttaMyPaint)
 [![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://tiktok.com/@fOuttaMyPaint)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCeA22MjbnroVywVLC6z8oug)
-
 [![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://twitch.tv/fOuttaMyPaint)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/fouttamypaint)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TMHSDigital)
 [![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://tiktok.com/@TMHS.Digital)
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
 [![X](https://img.shields.io/badge/X-333333?style=for-the-badge&logo=x&logoColor=white)](https://x.com/yourusername)
 
 # <strong>Rookie Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=fOuttaMyPaint&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TMHSDigital&show_icons=true&theme=radical)
 
 # <strong>Streak
-![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=fOuttaMyPaint&theme=dark)
+![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=TMHSDigital&theme=dark)
 
 # <strong>Skills
 
@@ -67,20 +49,20 @@
 # <strong>Top 3 Projects
 <ol>
   <li>
-<strong> [Language Library](https://github.com/fOuttaMyPaint/Language-Library): A comprehensive repository containing various programming language resources and examples. Ideal for those looking to expand their programming knowledge across different technologies.
+<strong> [Language Library](https://github.com/TMHSDigital/Language-Library): A comprehensive repository containing various programming language resources and examples. Ideal for those looking to expand their programming knowledge across different technologies.
  </li>
   <li>
-<strong> [TMHS.github.io](https://github.com/fOuttaMyPaint/TMHS.github.io): The repository for TM Hospitality Strategies, showcasing our digital solutions and projects in the hospitality industry.
+<strong> [TMHS.github.io](https://github.com/TMHSDigital/TMHS.github.io): The repository for TM Hospitality Strategies, showcasing our digital solutions and projects in the hospitality industry.
      </li>
   <li>
-<strong> [fOuttaMyPaint](https://github.com/fOuttaMyPaint/fOuttaMyPaint): My personal GitHub profile repository, featuring my projects, contributions, and professional development activities.
+<strong> [TMHSDigital](https://github.com/TMHSDigital/TMHSDigital): My personal GitHub profile repository, featuring my projects, contributions, and professional development activities.
   </li>
 </ol>
 
 </div>
 </div>
 
-<strong>[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=fOuttaMyPaint&bg_color=000000&color=00ff33&line=ffea00&point=009903&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<strong>[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=TMHSDigital&bg_color=000000&color=00ff33&line=ffea00&point=009903&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <details>
   <summary>More Information</summary>
@@ -90,5 +72,4 @@
 <details>
   <summary>FAQ</summary>
   <p>Coming Soon!</p>
-  
-```markdown
+</div>
