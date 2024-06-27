@@ -3,7 +3,6 @@
 # <strong>TMHS Digital on GitHub
 
 <div style="background-color: #2e2e2e; padding: 20px; border-radius: 10px; width: 80%; margin: auto;">
-<h2 style="color: #fff;">Table of Contents</h2>
 <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
     <a href="#top-languages">
         <button style="background-color: #ff4c4c; border: none; color: white; padding: 10px 20px; font-size: 16px; border-radius: 5px; cursor: pointer;">Top Languages</button>
