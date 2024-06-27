@@ -1,6 +1,6 @@
 <div align="center">
 
-# <strong>fOuttaMyPaint's GitHub Profile!
+# <strong>TMHS Digital on GitHub
 
 <div style="background-color: #2e2e2e; padding: 20px; border-radius: 10px; width: 80%; margin: auto;">
 <h2 style="color: #fff;">Table of Contents</h2>
