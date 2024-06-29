@@ -29,6 +29,9 @@
 # <strong>Streak
 ![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=TMHSDigital&theme=dark)
 
+# <strong>Contribution Stats
+[![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=TMHSDigital)](https://github.com/LordDashMe/github-contribution-stats)
+
 # <strong>Skills
 
 <div style="display: flex; justify-content: center; flex-wrap: wrap;">
