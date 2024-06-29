@@ -2,12 +2,28 @@
 
 # <strong>TMHS Digital on GitHub
 
-![Top Languages](https://img.shields.io/badge/Top%20Languages-ff4c4c?style=for-the-badge&logo=appveyor&logoColor=white&link=#top-languages)
-![Connect with Me](https://img.shields.io/badge/Connect%20with%20Me-ff4c4c?style=for-the-badge&logo=appveyor&logoColor=white&link=#connect-with-me)
-![Rookie Stats](https://img.shields.io/badge/Rookie%20Stats-ff4c4c?style=for-the-badge&logo=appveyor&logoColor=white&link=#rookie-stats)
-![Streak](https://img.shields.io/badge/Streak-ff4c4c?style=for-the-badge&logo=appveyor&logoColor=white&link=#streak)
-![Skills](https://img.shields.io/badge/Skills-ff4c4c?style=for-the-badge&logo=appveyor&logoColor=white&link=#skills)
-![Top 3 Projects](https://img.shields.io/badge/Top%203%20Projects-ff4c4c?style=for-the-badge&logo=appveyor&logoColor=white&link=#top-3-projects)
+<div style="background-color: #2e2e2e; padding: 20px; border-radius: 10px; width: 80%; margin: auto;">
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
+    <a href="#top-languages" style="text-decoration: none;">
+        <button style="background-color: #ff4c4c; border: none; color: white; padding: 10px 20px; font-size: 16px; border-radius: 5px; cursor: pointer;">Top Languages</button>
+    </a>
+    <a href="#connect-with-me" style="text-decoration: none;">
+        <button style="background-color: #ff4c4c; border: none; color: white; padding: 10px 20px; font-size: 16px; border-radius: 5px; cursor: pointer;">Connect with Me</button>
+    </a>
+    <a href="#rookie-stats" style="text-decoration: none;">
+        <button style="background-color: #ff4c4c; border: none; color: white; padding: 10px 20px; font-size: 16px; border-radius: 5px; cursor: pointer;">Rookie Stats</button>
+    </a>
+    <a href="#streak" style="text-decoration: none;">
+        <button style="background-color: #ff4c4c; border: none; color: white; padding: 10px 20px; font-size: 16px; border-radius: 5px; cursor: pointer;">Streak</button>
+    </a>
+    <a href="#skills" style="text-decoration: none;">
+        <button style="background-color: #ff4c4c; border: none; color: white; padding: 10px 20px; font-size: 16px; border-radius: 5px; cursor: pointer;">Skills</button>
+    </a>
+    <a href="#top-3-projects" style="text-decoration: none;">
+        <button style="background-color: #ff4c4c; border: none; color: white; padding: 10px 20px; font-size: 16px; border-radius: 5px; cursor: pointer;">Top 3 Projects</button>
+    </a>
+</div>
+</div>
 
 # <strong>Top Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TMHSDigital&layout=compact&theme=radical) 
