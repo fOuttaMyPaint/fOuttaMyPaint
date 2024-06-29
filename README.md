@@ -1,6 +1,6 @@
 <div align="center">
 
-# <strong>TMHS Digital on GitHub
+# TMHS Digital on GitHub
 
 <div style="background-color: #2e2e2e; padding: 20px; border-radius: 10px; width: 80%; margin: auto;">
 <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
@@ -9,9 +9,6 @@
     </a>
     <a href="#connect-with-me" style="text-decoration: none;">
         <button style="background-color: #ff4c4c; border: none; color: white; padding: 10px 20px; font-size: 16px; border-radius: 5px; cursor: pointer;">Connect with Me</button>
-    </a>
-    <a href="#rookie-stats" style="text-decoration: none;">
-        <button style="background-color: #ff4c4c; border: none; color: white; padding: 10px 20px; font-size: 16px; border-radius: 5px; cursor: pointer;">Rookie Stats</button>
     </a>
     <a href="#streak" style="text-decoration: none;">
         <button style="background-color: #ff4c4c; border: none; color: white; padding: 10px 20px; font-size: 16px; border-radius: 5px; cursor: pointer;">Streak</button>
@@ -25,10 +22,10 @@
 </div>
 </div>
 
-# <strong>Top Languages
+# Top Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TMHSDigital&layout=compact&theme=radical) 
 
-# <strong>Connect with Me
+# Connect with Me
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/fOuttaMyPaint)
 [![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://tiktok.com/@fOuttaMyPaint)
@@ -39,16 +36,13 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/thomasmathes1)
 [![X](https://img.shields.io/badge/X-333333?style=for-the-badge&logo=x&logoColor=white)](https://x.com/yourusername)
 
-# <strong>Rookie Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TMHSDigital&show_icons=true&theme=radical)
-
-# <strong>Streak
+# Streak
 ![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=TMHSDigital&theme=dark)
 
-# <strong>Contribution Stats
+# Contribution Stats
 [![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=TMHSDigital)](https://github.com/LordDashMe/github-contribution-stats)
 
-# <strong>Skills
+# Skills
 
 <div style="display: flex; justify-content: center; flex-wrap: wrap;">
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"> |
@@ -63,25 +57,13 @@
     <img src="https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"> |
 </div>
 
-<div align="center">
-    
-# <strong>Top 3 Projects
-<ol>
-  <li>
-<strong> [Language Library](https://github.com/TMHSDigital/Language-Library): A comprehensive repository containing various programming language resources and examples. Ideal for those looking to expand their programming knowledge across different technologies.
- </li>
-  <li>
-<strong> [TMHS.github.io](https://github.com/TMHSDigital/TMHS.github.io): The repository for TM Hospitality Strategies, showcasing our digital solutions and projects in the hospitality industry.
-     </li>
-  <li>
-<strong> [TMHSDigital](https://github.com/TMHSDigital/TMHSDigital): My personal GitHub profile repository, featuring my projects, contributions, and professional development activities.
-  </li>
-</ol>
+# Top 3 Projects
 
-</div>
-</div>
+1. **[Language Library](https://github.com/TMHSDigital/Language-Library)**: A comprehensive repository containing various programming language resources and examples. Ideal for those looking to expand their programming knowledge across different technologies.
+2. **[TMHS.github.io](https://github.com/TMHSDigital/TMHS.github.io)**: The repository for TM Hospitality Strategies, showcasing our digital solutions and projects in the hospitality industry.
+3. **[TMHSDigital](https://github.com/TMHSDigital/TMHSDigital)**: My personal GitHub profile repository, featuring my projects, contributions, and professional development activities.
 
-<strong>[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=TMHSDigital&bg_color=000000&color=00ff33&line=ffea00&point=009903&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=TMHSDigital&bg_color=000000&color=00ff33&line=ffea00&point=009903&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <details>
   <summary>More Information</summary>
@@ -91,4 +73,5 @@
 <details>
   <summary>FAQ</summary>
   <p>Coming Soon!</p>
+
 </div>
