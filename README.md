@@ -1,7 +1,8 @@
 <div align="center">
 
-# TMHS Digital on GitHub
-
+# Welcome to my GitHub profile
+<!-- Add LinkedIn Badges Here -->
+[![LinkedIn Badge - Dark](https://github.com/TMHSDigital/TMHSDigital/blob/main/assets/pngs/LinkedinpersonalpublicprofilebadgeDARK.png)](https://www.linkedin.com/in/thomasmathes1)
 <div style="background-color: #2e2e2e; padding: 20px; border-radius: 10px; width: 80%; margin: auto;">
 <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
     <a href="#top-languages" style="text-decoration: none;">
